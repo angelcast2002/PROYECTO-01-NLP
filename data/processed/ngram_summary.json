@@ -1,7 +1,5 @@
 {
   "vocab_size": 65835,
-  "num_train_docs": 9180,
-  "num_test_docs": 1020,
   "sweep": [
     {
       "n": 1,
